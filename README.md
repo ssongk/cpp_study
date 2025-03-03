@@ -11,6 +11,7 @@
 ### 가상 상속
 - 접근 지정자 앞에 virtual 키워드 사용
 - vbtable
+
 ![vtable](https://github.com/ssongk/cpp_study/blob/main/image/vtable.jpg)
 
 ![decompile](https://github.com/ssongk/cpp_study/blob/main/image/decompile.png)
